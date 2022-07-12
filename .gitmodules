@@ -8,14 +8,3 @@
 	url = https://github.com/mi2-warsaw/fselectorrcpp
 	shallow = true
 	registered = true
-[submodule "sejmRP"]
-	path = sejmRP
-	url = https://github.com/mi2-warsaw/sejmrp
-	shallow = true
-	subdir = sejmRP
-	registered = true
-[submodule "GOpro"]
-	path = GOpro
-	url = https://github.com/mi2-warsaw/gopro
-	shallow = true
-	registered = true
