@@ -1,13 +1,13 @@
 [
   {
-    "package": "FSelectorRcpp",
-    "oncran": true
-  },
-  {
     "package": "sejmRP",
     "oncran": true
   },
   {
     "package": "GOpro"
+  },
+  {
+    "package": "FSelectorRcpp",
+    "oncran": true
   }
 ]

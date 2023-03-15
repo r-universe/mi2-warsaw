@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "FSelectorRcpp"]
-	path = FSelectorRcpp
-	url = https://github.com/mi2-warsaw/fselectorrcpp
-	shallow = true
-	registered = true
 [submodule "sejmRP"]
 	path = sejmRP
 	url = https://github.com/mi2-warsaw/sejmrp
@@ -17,5 +12,10 @@
 [submodule "GOpro"]
 	path = GOpro
 	url = https://github.com/mi2-warsaw/gopro
+	shallow = true
+	registered = true
+[submodule "FSelectorRcpp"]
+	path = FSelectorRcpp
+	url = https://github.com/mi2-warsaw/fselectorrcpp
 	shallow = true
 	registered = true
