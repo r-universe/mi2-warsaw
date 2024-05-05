@@ -5,9 +5,6 @@
 [submodule "FSelectorRcpp"]
 	path = FSelectorRcpp
 	url = https://github.com/mi2-warsaw/fselectorrcpp
-[submodule "GOpro"]
-	path = GOpro
-	url = https://github.com/mi2-warsaw/gopro
 [submodule "sejmRP"]
 	path = sejmRP
 	url = https://github.com/mi2-warsaw/sejmrp
